@@ -1,0 +1,29 @@
+# Apollos Eastman
+# 10/21
+# Lists Intro
+
+# 3-1 Names
+import random
+
+names = ['Thayer', 'Isaac', 'Chuckles', 'Landozo']
+
+print(names[0])
+print(names[1])
+print(names[2])
+print(names[3])
+
+# 3-2 Greetings
+
+print(f'Hello {names[0]}, it\'s great to see you!')
+print(f'Hello {names[1]}, it\'s great to see you!')
+print(f'Hello {names[2]}, it\'s great to see you!')
+print(f'Hello {names[3]}, it\'s great to see you!')
+
+# 3-3 Your Own List
+
+transportation = ['Go Kart', 'Motorcycle', 'Four Wheeler',]
+
+print(f'Owning a {transportation[0]} would be awesome!')
+print(f'Owning a {transportation[1]} would be awesome!')
+print(f'Owning a {transportation[2]} would be awesome!')
+print(f'Owning a {transportation[3]} would be awesome!')
